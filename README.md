@@ -8,3 +8,11 @@
 -Git tracks changes to files.
 -Github hosts repositories online .
 -Commits recorded changes in the project history.
+
+## My Computing Goals
+-I want to learn about backend
+-I want to learn about database
+-I want to learn about C
+
+## My Favorite Technology
+-My favorite technology is motorcycle's being able to ride fast in the wind is exciting. A motorcycle is the best at transporting two individuals since they are small and easy to outmaneuver traffic.
